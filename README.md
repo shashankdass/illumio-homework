@@ -34,7 +34,7 @@ bash
 Copy code
 
 `git clone https://github.com/shashankdass/illumio-homework.git
-cd log-processor`
+cd illumio-homework`
 
 ### Install dependencies (if needed)
 
@@ -46,7 +46,7 @@ Your project should have the following structure:
 
 
 ```
-log-processor/
+illumio-homework
 ├── README.md
 ├── main.rb                  # Main Ruby program
 ├── lookup.txt               # Lookup table file
