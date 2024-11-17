@@ -33,7 +33,7 @@ bash
 
 Copy code
 
-`git clone https://github.com/shashankdass/log-processor.git
+`git clone https://github.com/shashankdass/illumio-homework.git
 cd log-processor`
 
 ### Install dependencies (if needed)
